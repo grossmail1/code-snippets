@@ -1,0 +1,1 @@
+This repository is created to house snippets of code or components that I don't want to get lost.
